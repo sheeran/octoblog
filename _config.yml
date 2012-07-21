@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
+url: http://www.nealsheeran.com/test/
 title: My Octopress Blog
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: Neal Sheeran
 simple_search: http://google.com/search
-description:
+description: Currently undergoing testing
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -16,7 +16,7 @@ description:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: /test/atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
@@ -26,10 +26,10 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /
+root: /test
 permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public
+destination: public/test
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
@@ -64,8 +64,8 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
-twitter_tweet_count: 4
+twitter_user: nealsheeran
+twitter_tweet_count: 5
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
@@ -81,8 +81,8 @@ googleplus_user:
 googleplus_hidden: false
 
 # Pinboard
-pinboard_user:
-pinboard_count: 3
+pinboard_user: nbsheeran
+pinboard_count: 5
 
 # Delicious
 delicious_user:
