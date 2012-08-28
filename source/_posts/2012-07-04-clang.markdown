@@ -1,0 +1,10 @@
+---
+layout: post  
+title: "CLANG"  
+date: 2012-07-04 19:03  
+comments: true  
+categories: [elsewhere]
+external-url: http://www.kickstarter.com/projects/260688528/clang  
+---
+
+I'm not one for fighting-style video games, but Neal Stephenson is the heat and his Kickstarter video is awesome. He is about 90K short with five days to go. [UPDATE: Funded!] 

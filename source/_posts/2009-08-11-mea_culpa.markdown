@@ -1,0 +1,50 @@
+---
+layout: post  
+title: "Mea Culpa"  
+date: 2009-08-11 00:32  
+comments: true  
+categories: [apple, ios]
+---
+
+In the past, I have [scoffed][1] Facebook and been proven [correct][2]. And I have [railed][3] against iPhone hype...and been wrong. 
+
+I finally broke down and joined the rest of the lemmings and picked up an iPhone 3G S, on launch day no less. I was sort of intrigued by the whole thing and took a closer look when I knew a new phone itself was coming out, as well the updated 3.0 software. I also qualified for the subsidized $199 price for a 16 GB model.
+
+After almost two months, I have to admit the iPhone is one of the coolest things ever. It really is a revolutionary device, and I rarely ever actually use it as a&#8212;you know&#8212;_phone_. Here is a quick, stream-of-consciousness review:
+
+### The Awesome
+
++ Mobile Safari - I was not expecting a web browser this capable. I have surfed the web for hours on the couch with this thing. The ability to manipulate the page with gestures is genius.
+
++ Visual Voicemail - David Pogue and I are on the same sheet [here][4]. Not having to listen to that stupid voicemail menu makes my day.
+
++ Google Maps + Compass. - I use this all the time. 
+
++ Mail - syncs perfectly with my Gmail account and Mail.app on my PowerMac, thanks to this [article][5]. I have also been playing with the iPhone-enabled GMail page from Mobile Safari as a page on the homescreen&#8212;well done and in some cases better than Mail (the same Google web item also has links to iPhone-optimized Google Calendar and Reader pages...very well done).
+
++ WiFi - excellent, as well as the ability to remember networks and auto-connect to them.
+
+### The Good
+
++ The onscreen keyboard is easier to use than I thought, but still takes some getting used to. One thing I miss from my Blackberry is the ability to hold down a letter to get it as a capital. 
+
++ Photos - I don't take a lot of pictures with it, but I've synched a fair amount from my desktop.
+
++ The App Store - This is like crack cocaine (I'm guessing). I've bought lots of useless stuff. And I can't stop.
+
+### The Whatever
+
++ Voice Control - doesn't work so hot when I need it to - like driving.
+
++ Voice Memos - relegated to my last homepage screen along with YouTube and iTunes.
+
++ Messages - There are legions of ten-year-olds that send more text messages during the walk to social studies then I have in my entire life. 
+
+So I stand corrected. The iPhone rules. Standby for a future post about iPhone Apps I use (or don't).
+
+[1]: http://www.nealsheeran.com/archives/2008/09/lameness_abound.html
+[2]: http://www.nealsheeran.com/archives/2009/07/im_not_goodbut.html
+[3]: http://www.nealsheeran.com/archives/2008/06/slacker.html
+[4]: http://pogue.blogs.nytimes.com/2009/07/30/the-mandatory-15-second-voicemail-instructions/
+[5]: http://db.tidbits.com/article/10253
+

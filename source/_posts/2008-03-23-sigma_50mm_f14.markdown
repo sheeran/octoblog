@@ -1,0 +1,29 @@
+---
+layout: post  
+title: "Sigma 50mm F/1.4"  
+date: 2008-03-23 23:19  
+comments: true  
+categories: [photography]
+---
+
+Nikon has huge hit on their hands with the D40: small, lightweight, plenty of features, excellent image quality - the perfect DSLR for those moving up from point-and-shoot cameras. I should know, I was one of them and I love the D40. One the main drawbacks to the camera is the lack of internal focus motor, so it will only autofocus with lens that have their own focus motors (currently AF-S lenses by Nikon and HSM lenses by Sigma). 
+
+For a lot of D40 owners, this is probably a non-issue. They use the camera just fine with the kit 18-55 installed and are none the wiser. After browsing the [forums][dp] at DP Review, it is obvious that a not insignificant group of D40 users is in the market for an all-around fast, prime lenses for their D40. I would count myself in this group. 
+
+In the 24-50mm range, there are really only three options:
+
+* [Nikon 50mm f1.4][1] ($290) 
+* [Nikon 50mm f1.8][2] ($110) 
+* [Sigma 30mm f1.4][3] ($400) 
+
+Neither of the Nikon lenses will autofocus on a D40 and Sigma has a reputation for less-than-stellar quality control. The online forums are full of stories from folks with Sigma 30mm's that have back/front focus issues. I decided on the Sigma and I count myself lucky. Any issues I've seen are self-induced as this is a tricky lens to use wide open, at least for a beginner. 
+
+I have been tempted to grab the Nikon 50mm 1.8 since it is supposed to be a great lens, especially at a hundred bucks. I'm afraid though that having to manual focus would be a major detractor since the object of most of my photography is a two-year-old who isn't down with things like "sit still while I focus". 
+
+Well, recently Sigma has [announced][4] a 50mm 1.4 HSM that *will* autofocus on a D40. It will be interesting to see the reaction, from both Nikon and D40 users and the reviews of this lens once it is released. Is Nikon going to let a third party manufacturer fill this void? Do they even see it as a void? I think a lot of D40 owners want these lenses for the capability they provide, but are happy with  their current camera and don't want to trade up to fully use what used to be a "basic" lens. Are Sigma's QC issues that plague the 30mm going to be present in this lens? What is it going to cost? Is the lens going to perform? Do I really need this lens now that I have the 30mm or should I just put that money towards a 70-300mm VR? Or should I just quit worry about it and take more pictures...
+
+[dp]: http://www.dpreview.com/forums/
+[1]: http://www.adorama.com/NK5014AFDU.html?searchinfo=nikkor%2050mm%20f1.4&item_no=2
+[2]: http://www.adorama.com/NK5018AFDU.html?searchinfo=nikkor%2050mm%20f1.8&item_no=2?searchinfo=nikkor%2050mm%20f1.8&item_no=2?searchinfo=nikkor%2050mm%20f1.8&item_no=2
+[3]: http://www.adorama.com/SG3014NKAF.html?searchinfo=sigma%2030mm%20f1.4&item_no=5
+[4]: http://www.dpreview.com/news/0803/08031801sigma50mm.asp

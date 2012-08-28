@@ -1,0 +1,20 @@
+---
+layout: post  
+title: "Oops"  
+date: 2010-11-05 09:03  
+comments: true  
+categories: [politics]
+---
+
+Harvard Law professor Larry Tribe writes a [letter][eppc] to President Obama advising him to not select Judge Sotomayor ("not as smart as she seems to think she is") to fill Justice Breyer's vacancy on the Supreme Court, as well as dissing some other Justices.
+
+Tribe then [responds][blogs] to the New York Times via email with blah blah words words about how he holds said Justices in the "highest regard" and:
+
+>I regret any contrary implication some may try to draw from my letter, taken out of context.
+
+Taken out of context? The obviously unsolicited letter was leaked in full, in a pdf, letterhead to signature. What other context is there? And to top it off, in the last paragraph he tells the President how awesome he is and comes right out and asks for a job.
+
+How embarrassing.
+
+[blogs]: http://thecaucus.blogs.nytimes.com/2010/10/28/leaked-obama-mentors-blunt-advice-on-court-choices/
+[eppc]: http://www.eppc.org/docLib/20101028_tribeletter.pdf

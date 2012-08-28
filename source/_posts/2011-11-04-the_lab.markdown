@@ -1,0 +1,14 @@
+---
+layout: post  
+title: "The Lab"  
+date: 2011-11-04 09:13  
+comments: true  
+categories: ['web design'] 
+---
+
+One of the (many) reasons I haven't been writing a lot here lately is I've been spending what little free time I have reading up on various web design topics and working on a re-design of this site. I've stood up my own [testing site][1] as I work on things like typography, layouts, grids, and other interwebs magic. Check it out and feedback is welcome. Since I have turned commenting off due to the spam getting out of hand, drop me a line on Twitter: _[@nealsheeran][2]_. 
+
+The site is, and will continue to be, under construction. That's kinda the point. 
+
+   [1]: http://www.nealsheeran.com/lab/index.html
+   [2]: http://twitter.com/nealsheeran

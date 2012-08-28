@@ -1,0 +1,10 @@
+---
+layout: post  
+title: "Cooliris"  
+date: 2008-09-16 00:20  
+comments: true  
+categories: [elsewhere, geekery]
+external-url: http://www.cooliris.com/
+---
+
+I linked to this previously when it was known as PicLens. Still one of the coolest things on the web, and now available for Safari.

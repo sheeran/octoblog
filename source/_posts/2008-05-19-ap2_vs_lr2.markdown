@@ -1,0 +1,10 @@
+---
+layout: post  
+title: "AP2 vs LR2"  
+date: 2008-05-19 22:11  
+comments: true  
+categories: [elsewhere, software, photgraphy]
+external-url: http://blogs.oreilly.com/aperture/2008/05/comparing-applications.html
+---
+
+Nice rundown of the pros and cons.

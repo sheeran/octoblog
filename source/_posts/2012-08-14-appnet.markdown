@@ -1,0 +1,29 @@
+---
+layout: post  
+title: "App.net"  
+date: 2012-08-14 22:45  
+comments: true  
+categories: [web]
+---
+
+The upper crust of the nerdier corners of the internet was all in a tizzy the last few days about [App.net][app], an upstart social network and accompanying API that was following the [Kickstarter][kick] model. Their "funding period" expired this weekend and they made their goal ($500K) with 37 hours to go.
+
+Full Disclosure Up Front: I joined.
+
+[Dr. Drang][leancrew] and [Macdrifter][macdrifter] both have succinct and frank observations about the whole situation. Here's Macdrifter:
+
+> I think App.net is more about wanting to cut-off an entire segment of Twitter's users and paying for the privilege to do it.
+
+And Dr. Drang:
+
+>An unstated, but I think powerful, motivation for people to sign up for app.net is the fear that it will take off and you’ll be late to the party. Too late, perhaps, to get the username you want. One of app.net’s appeals is thinly veiled extortion. Nice Twitter handle you got there. Would be a shame if somebody else took it.
+
+I don't have a high-minded explanation for why I joined, but the get-in-early factor was a consideration. I'm not sure it was about claiming my Twitter handle. I'm Twitter user #73,068,565 and '[nealsheeran][twitter]' was still available.
+
+I have no idea how App.net will turn out. I haven't even gotten access to the "alpha" yet. I may have flushed $50 down the toilet, although I have wasted more money on much dumber things. But if it turns out to be the coolest thing ever, I can at least say I was in the initial group of a 1000 people that knew it would be.
+
+[app]: https://join.app.net/
+[kick]: http://www.kickstarter.com/
+[leancrew]: http://www.leancrew.com/all-this/2012/08/app-dot-not/
+[macdrifter]: http://www.macdrifter.com/2012/08/appnet-redux.html
+[twitter]: https://twitter.com/nealsheeran

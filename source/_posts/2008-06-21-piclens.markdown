@@ -1,0 +1,10 @@
+---
+layout: post  
+title: "PicLens"  
+date: 2008-06-21 21:58  
+comments: true  
+categories: [elsewhere, geekery]
+external-url: http://www.cooliris.com/
+---
+
+Quite possibly one of the coolest applications ever to reside on my computer.

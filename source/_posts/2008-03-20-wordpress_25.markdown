@@ -1,0 +1,10 @@
+---
+layout: post  
+title: "WordPress 2.5"  
+date: 2008-03-20 23:29  
+comments: true  
+categories: [elsewhere, blogging, software]
+external-url: http://wordpress.org/development/2008/03/25-sneak-peek/  
+---
+
+The new interface looks sharp. I locally installed WordPress (and Expression Engine) last year to see if I wanted to switch.  At the time, I thought "no" - we'll see if that holds if the tinkering bug returns.

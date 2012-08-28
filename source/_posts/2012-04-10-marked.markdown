@@ -1,0 +1,28 @@
+---
+layout: post  
+title: "Marked"  
+date: 2012-04-10 07:55  
+comments: true  
+categories: [software]
+---
+
+I have [written before][nbs] about holding off on upgrading to Lion. The big reason was a documented [issue][apple] with Lion and 2010 MacBook Pro's as well as Lion not really offering anything that I needed. Launchpad? No more *Save As*? No thanks. Snow Leopard on my MBP is a fast, well-oiled machine. I've never had a kernel panic, rarely ever hear the fans spin up, and the spinning beach ball usually bounces around someone else's beach. 
+
+I understand that my timeframe for holding out has a limit. I thought that limit would be defined by when Mobile Me goes away at the end of June and its replacement iCloud is Lion only. I only use Mobile Me for syncing calendars, contacts and bookmarks between my main computer and my iOS machines, but that is a big deal for me. Unlike when I was still using a PowerMac G5, and eventually a lot of apps that I used, or wanted to use, became Intel-only, there haven't been a dearth of Lion-only apps that have caused me to upgrade.
+
+Until yesterday. And now I'm on Lion.
+
+WTF? Well, Brett Terpstra released version 1.4 of his Markdown preview app, [Marked.][mk] Marked is a great app, that I don't even use everyday, but the new feature set is incredible. If you write anything in Markdown, you should be using Marked. And that alone was enough for me to sit down and upgrade my machine to Lion. After about a day, here are my initial notes:
+
+1. I followed Matt Gemmell's [instructions][mg] on how to make Mission Control act just like Snow Leopard's Spaces.
+2. I threw out all the apps Lion added to the Dock.
+3. For the first few hours, I did get a fair amount of spinning beach balls and fans, but things seem back to normal the next day.
+4. I'm sticking with the natural scrolling. I scroll wrong almost every time, but it is not as maddening as I thought it would.
+5. I do like the iOS-style text corrections and suggestions as you type.
+
+As for Mountain Lion? *Definitely* don't need anything there...
+
+[apple]: https://discussions.apple.com/thread/3191083?start=0&tstart=0
+[mk]: http://markedapp.com/
+[mg]: http://mattgemmell.com/2011/07/27/using-spaces-on-os-x-lion/
+[nbs]: http://www.nealsheeran.com/

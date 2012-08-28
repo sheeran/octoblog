@@ -1,0 +1,25 @@
+---
+layout: post  
+title: "PGP"  
+date: 2012-07-12 00:18  
+comments: true  
+categories: [software, security]
+---
+
+I came across [this article][1] about Phil Zimmerman, the inventor of [Pretty Good Privacy][2] (PGP) getting together with some former Navy SEALs (!!!) to create a new encrypted communications platform. A pretty cool concept that brought back a few memories.
+
+I remember downloading PGP from an anonymous FTP server (!!!) back when I was in college. It was version 2.something or another and only ran from the DOS command line of my Gateway 2000 PC (!!..*enough already*). It also lead to my first [O'Reilly book][3] purchase. Part of my fascination with having a copy of PGP was this (from [Wikipedia][2]):
+
+>Shortly after its release, PGP encryption found its way outside the United States, and in February 1993 Zimmermann became the formal target of a criminal investigation by the US Government for "munitions export without a license". Cryptosystems using keys larger than 40 bits were then considered munitions within the definition of the US export regulations; PGP has never used keys smaller than 128 bits so it qualified at that time. Penalties for violation, if found guilty, were substantial. After several years, the investigation of Zimmermann was closed without filing criminal charges against him or anyone else.
+
+I have had a version of PGP installed on every computer I have ever owned. My first Mac was a Titanium G4 Powerbook and when I first got it, PGP only ran under Classic. Just a few months ago, I upgraded my [current PGP install][4] to be compatible with Lion.
+
+In all those years (around 18), I have never once sent an encrypted email with it or encrypted any files other than to test it out. But it has been nice just having it. You never know. 
+
+In fact, if you have some super-secret info to pass on, my public key is [here][5]. 
+
+[1]: http://www.theregister.co.uk/2012/06/14/pgp_seal_encrypted_communications/
+[2]: http://en.wikipedia.org/wiki/Pretty_Good_Privacy
+[3]: http://shop.oreilly.com/product/9781565920989.do
+[4]: https://www.gpgtools.org/
+[5]: http://www.nealsheeran.com/nealsheeran.asc
