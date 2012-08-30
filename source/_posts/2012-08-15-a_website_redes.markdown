@@ -23,7 +23,7 @@ Many design professionals extoll the virtues of Photoshop to create comps and th
  
 Before I get into any specific elements of the new design, one tool that I have found invaluable in this process has been [Sass][sass], a CSS pre-processor. There are tons of tutorials on Sass and this won't be one of them, but the key improvements I've taken advantage of are variables and functions.
 
-### Typography
+## Typography
 
 I make no claim to any sort of design skills, but one area that I have studied a fair amount of over the years is good typography. [^1]. A while ago I created a [test page][type] that implemented a [vertical rhythm][24ways]. The key aspect of maintaining a vertical rhhythm is to ensure that the line spacing of blocks of text (leading) and the spaces between text blocks or other elements on the page all equal to (or relate) to a specific value. 
 
@@ -70,7 +70,7 @@ That is all well and good, but if there are more than a few elements with differ
 
 However, if I decided to change the base `font-size` or `line-height` for whatever reason, I would have to go back and manually change *all* the CSS declarations.
 
-#### Sass to the Rescue.
+### Sass to the Rescue.
 
 This is where variables and functions in Sass can make this easy. Here is an extract from the typography section of my Sass variables partial:
 
@@ -172,7 +172,7 @@ Again, the `em` function is just calculating the Desired Em Size formula: 36 / 1
 
 The `line-height` passed a multiplier of 1.0 in order to keep it at the baseline vertical rhythm of 24px. If you never need to deviate from this rhythm, the `lh` function is not required and you could just use the `em` function to calculate margins for elements that have different font sizes.
 
-#### WTF?
+### WTF?
 
 You could be forgiven for thinking that this is a lot of work, but what if you decide in a week or year to change your default font-size, or vertical rhythm? All that is required to update your initial variables:
 
@@ -250,13 +250,13 @@ If I want to change the typeface used for titles, rather than search through my 
   	
 Sass has a ton of features such as mixins and the ability to extend CSS selectors, but just using variables and functions has been a huge help in quickly experimenting with different aspects of web typography.
 
-Upcoming articles in this redesign series:
+#### Upcoming articles in this redesign series:
 
 1. Using [Susy][susy] to create fluid grids
 2. Colors by [Solarized][solarized]
 3. Creating Sidenotes
 4. Good web type with [Tyepkit][typekit]
-4. Leaving [Movable Type][mt] and the alternatives
+5. [Leaving Movable Type and the alternatives][5]
 
 [^1]: I can't recommend enough Robert Bringhurst's *[Elements of Typographic Style][bringhurst]* 
 
@@ -281,3 +281,5 @@ Upcoming articles in this redesign series:
 [solarized]: http://ethanschoonover.com/solarized
 [typekit]: https://typekit.com/
 [mt]: http://www.movabletype.org
+
+[5]: http://www.nealsheeran.com/archives/2012/08/leaving_movable/
