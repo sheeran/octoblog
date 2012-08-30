@@ -1,13 +1,15 @@
-mint/
+cgi-bin/
 css/
 else/
 fever/
 js/
 lab/
+mint/
 mt-static/
 pelican/
 templates/
 test/
+.htaccess
 about.html
 archives.html
 index.rdf

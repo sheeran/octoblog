@@ -7,8 +7,8 @@ require 'rake/minify'
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
 ssh_user       = "nsheeran@nealsheeran.com"
 ssh_port       = "86"
-document_root  = "/home/nsheeran/public_html/test"
-rsync_delete   = true
+document_root  = "/home/nsheeran/public_html"
+rsync_delete   = false
 deploy_default = "rsync"
 
 # Hidden "dot" files that should be included with the deployed site (see task copydot)
@@ -19,7 +19,7 @@ deploy_branch  = "gh-pages"
 
 ## -- Misc Configs -- ##
 
-public_dir      = "public/test"    # compiled site directory
+public_dir      = "public"    # compiled site directory
 source_dir      = "source"    # source file directory
 blog_index_dir  = 'source'    # directory for your blog's index page (if you put your index in source/blog/index.html, set this to 'source/blog')
 deploy_dir      = "_deploy"   # deploy directory (for GitHub pages deployment)

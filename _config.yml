@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.nealsheeran.com/test/
-title: Testing Octopress
-subtitle: A blogging framework for hackers.
+url: http://www.nealsheeran.com
+title: Neal Sheeran
+subtitle: Rants, Raves, and Geekery
 author: Neal Sheeran
 simple_search: http://google.com/search
-description: Currently undergoing testing
+description: A blog about blogging, technology, and people doing dumb things
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -16,7 +16,7 @@ description: Currently undergoing testing
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /test/atom.xml
+subscribe_rss: /atom.xml
 subscribe_email:
 category_feeds: false
 # RSS feeds can list your email address if you like
@@ -27,10 +27,10 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /test
+root: /
 permalink: /archives/:year/:month/:title/
 source: source
-destination: public/test
+destination: public
 plugins: plugins
 code_dir: downloads/code
 category_dir: archives/categories
