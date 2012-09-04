@@ -80,8 +80,8 @@ My original plan was to move over to Octopress coincidentally with a new redesig
 
 #### Upcoming Entries Releated to the Move to Octopress:
 
-1. How to Export from Movable Type to Octopress
-2. Linked List Posts: From Movable Type to Octopress
+1. [How to Export from Movable Type to Octopress][1]
+2. [Linked List Posts: From Movable Type to Octopress][2]
 3. Automating Octopress with Keyboard Maestro
 4. Runners Up in the Static Site Generator Contest
 
@@ -108,7 +108,6 @@ My original plan was to move over to Octopress coincidentally with a new redesig
 [sublime]: http://www.sublimetext.com/2
 [byword]: http://bywordapp.com/
 
-
 [ee]: http://expressionengine.com/
 [co]: http://brandnewbox.co.uk/products/details/datagrab/
 
@@ -122,3 +121,5 @@ My original plan was to move over to Octopress coincidentally with a new redesig
 [macdrifter]: http://www.macdrifter.com/2012/06/update-to-my-simple-dropbox-blogging-system/
 [pelican]: http://pelican.notmyidea.org/en/latest/
 
+[1]: http://www.nealsheeran.com/archives/2012/08/how-to-export-from-movable-type-to-octopress/
+[2]: http://www.nealsheeran.com/archives/2012/09/linked-list-posts-mt-to-octopress/

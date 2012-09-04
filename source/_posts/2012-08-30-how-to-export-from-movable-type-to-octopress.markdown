@@ -35,7 +35,7 @@ After creating the template, go back to the Template Options and create a new En
 
 	%y-%m-%d-%F.markdown 
 
-The year-month-day is obvious, although the the values are case-sensitive. The `%F` is a place-holder for the original filename, and using an uppercase 'F' means to drop the original extension (.html) so I can add my own (.markdown). This placeholder also replaces spaces between words with underscores. Use `%-F` (note the hyphen) to use hyphens. Read the [MT documentation][mt] for all possible file path options. I used the former because my original MT entries are published with the following URL structure:
+The year-month-day is obvious, although the values are case-sensitive. The `%F` is a place-holder for the original filename, and using an uppercase 'F' means to drop the original extension (.html) so I can add my own (.markdown). This placeholder also replaces spaces between words with underscores. Use `%-F` (note the hyphen) to use hyphens. Read the [MT documentation][mt] for all possible file path options. I used the former because my original MT entries are published with the following URL structure:
 
 	http://www.nealsheeran.com/archives/2012/07/some_post.html
 	
@@ -71,7 +71,7 @@ Octopress needs this:
 
 	categories: ['Current Events', Software]
 	
-Some grep-foo with [BBEdit][bbedit] can easily take of these issues. Of course, I say that like I knew what I was doing. Not quite.
+Some grep-foo with [BBEdit][bbedit] can easily take care of these issues. Of course, I say that like I knew what I was doing. Not quite.
 
 I still went through each file and double-check image paths, links or any posts that were written in HTML as opposed to markdown. MT's basic markdown parser doesn't understand more advanced syntax (such as [Multi-Markdown][mmd]) that provides footnotes. When I wrote a post with footnotes--usually with [nvALT][nvalt] and previewed with [Marked][marked]--I changed Marked to display the generated HTML and then pasted *that* into [MarsEdit][mars].
 
