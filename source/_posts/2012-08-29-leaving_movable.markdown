@@ -82,7 +82,7 @@ My original plan was to move over to Octopress coincidentally with a new redesig
 
 1. [How to Export from Movable Type to Octopress][1]
 2. [Linked List Posts: From Movable Type to Octopress][2]
-3. Automating Octopress with Keyboard Maestro
+3. [Automating Octopress with Keyboard Maestro][3]
 4. Runners Up in the Static Site Generator Contest
 
 
@@ -123,3 +123,4 @@ My original plan was to move over to Octopress coincidentally with a new redesig
 
 [1]: http://www.nealsheeran.com/archives/2012/08/how-to-export-from-movable-type-to-octopress/
 [2]: http://www.nealsheeran.com/archives/2012/09/linked-list-posts-mt-to-octopress/
+[3]: http://www.nealsheeran.com/archives/2012/09/automating-octopress-with-keyboard-maestro/

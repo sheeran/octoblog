@@ -54,13 +54,10 @@ Here is a closer inspection of the shell script itself:
 
 	# Then try to load from a root install
   	source "/usr/local/rvm/scripts/rvm"
-
+   
 	else
-
   	printf "ERROR: An RVM installation was not found.\n"
-
 	fi
-	
 	cd /Users/me/Code/octopress
 	rvm use 1.9.3@octopress
 	rake new_post["$KMVAR_Title"]
