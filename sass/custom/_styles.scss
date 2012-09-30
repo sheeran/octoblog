@@ -4,3 +4,7 @@
 article .linklog-marker {
   color: $solar-cyan;
 }
+
+@media only screen and (min-width: 992px) {
+  body { font-size: 1.0em; }
+}
