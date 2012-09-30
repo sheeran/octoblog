@@ -4,7 +4,7 @@ title: "Where Do Democrats Go Next?"
 date: 2010-11-03 09:26  
 comments: true  
 categories: [elsewhere]
-external-url: http://www.nytimes.com/2010/11/03/opinion/03bayh.html?_r=1&amp;ref=opinion<br/><br/>  
+external-url: http://www.nytimes.com/2010/11/03/opinion/03bayh.html?_r=0  
 ---
 
 Soon-to-retire Senator Evan Bayh:
