@@ -76,7 +76,7 @@ I use `Control-Shift-G` for another macro to generate the site content, which ju
 
 I have all three macros set to "display results briefly"---the normal rake output to the terminal---for positive feedback of the results of the commands.
 
-
+*Update (Oct 10)*: Jonathan Poritsky of the Candler Blog has a nifty [Text Expander solution][11] to this.
 
 [^1]: These last two can be combined with the `rake gen_deploy` command, if desired. Other Octopress rake tasks such as `watch` and `preview` could easily be automated with this as well. If the terminal _is_ in your wheelhouse, Alessandro Nadalin has [written][10] some nice shell aliases and functions that combine many of these tasks.
 
@@ -91,3 +91,4 @@ I have all three macros set to "display results briefly"---the normal rake outpu
 [8]: http://www.bywordapp.com
 [9]: http://www.smilesoftware.com/textexpander/
 [10]: http://odino.org/bash-aliases-for-octopress/
+[11]: http://www.nealsheeran.com/archives/2012/09/automating-octopress-with-keyboard-maestro/
