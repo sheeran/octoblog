@@ -6,4 +6,4 @@ comments: true
 external-url: https://github.com/csswizardry/inuit.css
 categories: [sass, 'web design']
 ---
-A nifty little framework with full of useful Sass mixins.
+A nifty little framework full of useful Sass mixins.
