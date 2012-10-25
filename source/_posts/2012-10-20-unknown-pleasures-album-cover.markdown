@@ -6,4 +6,4 @@ comments: true
 external-url: http://www.theverge.com/2012/10/16/3513480/watch-this-joy-division-album-cover
 categories: [music]
 ---
-Interesting story that a true fan already would already know. And yes, I did have this t-shirt back in the day. Waaaaaaay back.
+Interesting story that a true fan would already know. And yes, I did have this t-shirt back in the day. Waaaaaaay back.
