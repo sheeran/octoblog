@@ -19,7 +19,10 @@ I'm not familiar with the [methodology][3] and I don't doubt that the main point
 
 I don't dispute that the Republican Party has shifted rightward over the years, but I also think a very large portion of the electorate has as well. 
 
+*Update (29 Oct)*: xkcd has a much more [interesting chart][4] (standard) that shows much the same thing, but also indicates a significant leftward shift as well.
+
 
 [1]: http://kottke.org/12/10/infographic-of-shifting-us-political-ideologies
 [2]: http://blog.revolutionanalytics.com/2012/10/the-rapidly-increasing-ideology-of-the-us-republican-party.html
 [3]: http://en.wikipedia.org/wiki/NOMINATE_(scaling_method)
+[4]: http://xkcd.com/1127/
