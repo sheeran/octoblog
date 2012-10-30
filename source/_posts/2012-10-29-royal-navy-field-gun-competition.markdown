@@ -9,6 +9,4 @@ categories: [elsewhere, military]
 
 Wow. Just watch it.
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/VslIuK-bAHg?rel=0" frameborder="0" allowfullscreen></iframe>
-
 h/t: my Dad.
