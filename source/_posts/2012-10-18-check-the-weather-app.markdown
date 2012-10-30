@@ -14,6 +14,8 @@ However, I do disagree with one of Shawn's main "stand out" points; the use of t
 
 Strange indeed, because I find the information hard to read on the iPhone screen at any appreciable distance. I can think of any number of H&FJ typefaces that would have been a better choice; Gotham, Ideal Sans, Tungsten--heck, considering the purpose of this app, [Numbers][4] would have been an inspired choice. Anything would be an improvement over the current selection, which unfortunately is a case of cleverness outweighing legibility.
 
+*Update (Oct 29)*: An update released today adds Futura and Helvetica as font choices.
+
 *Note*: See that one bar I'm getting with my phone sitting on my desk? Yeah, me too. Verizon here I come.
 
 [1]: http://shawnblanc.net/2012/10/check-the-weather-app/
