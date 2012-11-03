@@ -7,7 +7,7 @@ external-url:
 categories: writing
 ---
 
-John Gruber's [Markdown][6] writing syntax has exploded in popularity recently, although Gruber hasn't done much with it for many years. Other developers have expanded on it's original capabilities, to include Fletcher Penny's [MultiMarkdown][5].
+John Gruber's [Markdown][6] writing syntax has exploded in popularity recently, although Gruber hasn't done much with it for many years. Other developers have expanded on its original capabilities, to include Fletcher Penny's [MultiMarkdown][5].
 
 Jeff Atwood [would like an official Markdown standard][1] to unify the disparate implementations and parsers and fix some outstanding bugs. He would like Gruber's buy-in to his plan, but he [may not have handled that so well][2]. And Gruber doesn't seem all that interested in participating. Color me surprised.
 
