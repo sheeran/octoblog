@@ -24,7 +24,7 @@ My first iPhone was a 3GS and I only upgraded to a 4 out of necessity when the b
 ### Laptop
 What my next computer will be is a tricky question. I love my current MacBook Pro. My previous machine was a 2006 PowerMac G5, and while I appreciate the portability, the screen can be a bit cramped at times. A situation I could rectify if I bothered to hook up my old 20 inch Cinema Display. 
 
-The new iMacs are impressive, but I'm not sure I want to be an early Fusion Drive adopter. Additionally, all of my backup drives are Fire Wire, a technology that Apple appears to be leaving behind for Thunderbolt and USB 3, so the added expense of replacing those would be a factor.
+The new iMacs are impressive, but I'm not sure I want to be an early Fusion Drive adopter. Additionally, all of my backup drives are FireWire, a technology that Apple appears to be leaving behind for Thunderbolt and USB 3, so the added expense of replacing those would be a factor.
 
 Oddly enough, the new Mac Mini does still have a FW 800 port, and I have been thinking about getting one for a few months now as a home server/media center (to replace my first generation Apple TV). 
 
@@ -32,5 +32,8 @@ I could wait for the Mac Pro replacement that may (or may not) come out next yea
 
 We'll see if any of this holds once I actually see a Retina display.
 
+*Update (3 Nov)* [Macworld][2] has a good article about ways to deal with the imminent demise of FireWire.
+
 
 [1]: http://www.kingdomrush.com/
+[2]: http://www.macworld.com/article/2013380/firewires-demise-heres-how-to-cope.html
