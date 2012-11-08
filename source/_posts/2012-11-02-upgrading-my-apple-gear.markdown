@@ -16,7 +16,7 @@ In the last few months and up to last week, Apple has introduced Retina MacBook 
 *Quite Significant Caveat:* Aside from my iPhone 4, I have never seen a Retina display in person. Not on the new MacBook Pro's, or the newer iPads. Based on what I've read from others, I'm certain my thoughts would change if I did.
  
 ### iPad
-Of my three devices, not replacing my iPad is the easiest decision. I use it almost exclusively for reading around the house, at least until the next version of [Kingdom Rush] comes out. It does exactly what I need. I'm intrigued by the smaller size of the iPad Mini and will probably upgrade when it gets a Retina display.
+Of my three devices, not replacing my iPad is the easiest decision. I use it almost exclusively for reading around the house, at least until the next version of [Kingdom Rush][1] comes out. It does exactly what I need. I'm intrigued by the smaller size of the iPad Mini and will probably upgrade when it gets a Retina display.
 
 ### iPhone
 My first iPhone was a 3GS and I only upgraded to a 4 out of necessity when the battery pretty much crapped out while I was a trip. I plan on switching to Verizon and getting a iPhone 5 for my wife to replace her current crappy flip phone. I might as well get one too.
