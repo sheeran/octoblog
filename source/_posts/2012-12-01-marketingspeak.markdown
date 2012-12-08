@@ -46,7 +46,7 @@ Or the corporate press release:
 Nobody *really* talks like this. Why should otherwise smart people write like it?
 
 
-[^1]: I don't like typing on the iPad keyboard, so I'm mostly a "content consumer"". Does that make my iPad less valuable? 
+[^1]: I don't like typing on the iPad keyboard, so I'm mostly a "content consumer". Does that make my iPad less valuable? 
 
 
 [1]: http://macsparky.com/blog/2012/11/the-ipad-mini-dividing-line
