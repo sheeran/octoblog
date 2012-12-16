@@ -3,7 +3,7 @@ layout: post
 title: "DF on the Gizmodo/iPhone drama"  
 date: 2010-04-22 00:14  
 comments: true  
-categories: [elsewhere, journalisms]
+categories: [elsewhere, journalism]
 external-url: http://daringfireball.net/2010/04/gizmodo_prototype_iphone  
 ---
 

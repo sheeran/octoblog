@@ -3,7 +3,7 @@ layout: post
 title: "shitmydadsays"  
 date: 2009-09-09 22:51  
 comments: true  
-categories: [elsewhere, homor]
+categories: [elsewhere, humor]
 external-url: http://twitter.com/shitmydadsays  
 ---
 
