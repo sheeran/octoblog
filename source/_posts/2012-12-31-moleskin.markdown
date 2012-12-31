@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Another Year Down"
+date: 2012-12-31 16:06
+comments: true
+external-url: 
+categories: productivity
+---
+Another [Moleskin][1] book for 2013.
+
+{% img http://www.nealsheeran.com/images/moleskin2.jpg My trusty Moleskin notebook %}
+
+
+
+
+[1]: http://www.amazon.com/Moleskine-Square-Notebook-Pocket-Classic/dp/888370102X/ref=sr_1_11?s=books&ie=UTF8&qid=1356995317&sr=1-11&keywords=moleskine
