@@ -10,7 +10,11 @@ Another [Moleskin][1] book for 2013.
 
 {% img http://www.nealsheeran.com/images/moleskin2.jpg My trusty Moleskin notebook %}
 
+Infinite battery.  No cloud sync issues, unless I forget to take it with me. You want a future-proof data format? Pen on paper beats plain text any day. I like [Fantastical][2] and [OmniFocus][3] as much as the next productivity dork, but stuff I need either starts or ends in one of these. 
 
+I will admit that the search algorithm can be a bit, shall we say, inefficient. 
 
 
 [1]: http://www.amazon.com/Moleskine-Square-Notebook-Pocket-Classic/dp/888370102X/ref=sr_1_11?s=books&ie=UTF8&qid=1356995317&sr=1-11&keywords=moleskine
+[2]: http://flexibits.com/fantastical
+[3]: http://www.omnigroup.com/products/omnifocus/
