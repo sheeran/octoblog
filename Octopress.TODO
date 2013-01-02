@@ -1,0 +1,23 @@
+
+Octopress Tweaks:
+
+Small Rocks:
+ ☐ Fix Footnote sizing and add HR
+ ☐ Shrink overall font-size
+ ☐ Add category list to Archives page
+   ☐ Modify Asides on this page as well
+ ☐ Update Navbar
+   ☐ Lab
+   ☐ About
+ ☐ Colors?
+ ☐ Center images?
+ ☐ Typekit fonts?
+ ☐ Clean out server root folder / implement rsync delete
+
+Big Rocks (New Design):
+ ☐ Analyize current template/HTML/SASS structure
+ ☐ Installing a theme?
+ 
+ Layout Files/Partials
+
+ SASS Files
