@@ -6,6 +6,6 @@ comments: true
 external-url: http://oddbird.net/2013/01/01/susy-next/  
 categories:   [sass, 'web design']
 ---
- I have been working on a site redesign that uses the excellent Sass-powered, responsive grid framework, [Susy][1] by Eric A. Meyer. Looks like Susy is merging with some other top-notch frameworks int he coming year. I'll definitely be keeping my eye out for this.
+ I have been working on a site redesign that uses the excellent Sass-powered, responsive grid framework, [Susy][1] by Eric A. Meyer. Looks like Susy is merging with some other top-notch frameworks in the coming year. I'll definitely be keeping my eye out for this.
  
  [1]: http://susy.oddbird.net/

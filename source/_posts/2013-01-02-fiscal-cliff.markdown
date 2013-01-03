@@ -7,4 +7,4 @@ external-url: http://washingtonexaminer.com/the-good-bad-ugly-of-the-fiscal-clif
 categories:   [politics]
 ---
 
-$1 in spending cuts for every $41 in new taxes. Close to $4 trillion in new debt over the next decade. Sending is going to be cut $15 billion over 10 years. The government spends $10.5 billion *a day*.
+$1 in spending cuts for every $41 in new taxes. Close to $4 trillion in new debt over the next decade. Spending is going to be cut $15 billion over 10 years. The government spends $10.5 billion *a day*.
