@@ -70,13 +70,17 @@ The beginning of the script was copied directly from the RVM site and I added th
 
 I then add any categories and enter the post content. Save when I'm finished and then two more macros to post the entry. [^1] A possible alternative to this technique would be to skip the `rake new_post` command altogether and use a combination of macros and [Text Expander][9] snippets that creates a file with the correct `year-month-day-title.markdown` format as well as the proper YAML front matter for the post. This technique could be useful in some sort of remote-blogging scenario.
 
+**Note**: A word of warning with the above Hazel rule. Be very careful if you use `rake isolate` to edit/generate single posts. All other posts are temporarily moved out of the `_posts` directory and then moved back when you `rake integrate`. Which--you guessed it--will cause all those other files to trip the rule...and Byword will open over 300 documents (in my case). This is not fun.   
+
 ### Generate and Deploy the Site
 
 I use `Control-Shift-G` for another macro to generate the site content, which just calls the exact same script as above, but replacing the last line with `rake generate`. A third macro deploys the site with `Control-Shift-D` and again, the last command is `rake deploy`---which for me uses Rsync to upload my site to my server.
 
 I have all three macros set to "display results briefly"---the normal rake output to the terminal---for positive feedback of the results of the commands.
 
-*Update (Oct 10)*: Jonathan Poritsky of the Candler Blog has a nifty [Text Expander solution][11] to this.
+*Update (10 Oct 12)*: Jonathan Poritsky of the Candler Blog has a nifty [Text Expander solution][11] to this.
+
+*Update (11 Jan 13)*: Doug Rice of Jarhead.me has an some excellent [Text Expander snippets][12] as well. Also, added the Hazel warning above and the Candler Blog link in the previous update has been fixed. Sorry about that.
 
 [^1]: These last two can be combined with the `rake gen_deploy` command, if desired. Other Octopress rake tasks such as `watch` and `preview` could easily be automated with this as well. If the terminal _is_ in your wheelhouse, Alessandro Nadalin has [written][10] some nice shell aliases and functions that combine many of these tasks.
 
@@ -91,4 +95,5 @@ I have all three macros set to "display results briefly"---the normal rake outpu
 [8]: http://www.bywordapp.com
 [9]: http://www.smilesoftware.com/textexpander/
 [10]: http://odino.org/bash-aliases-for-octopress/
-[11]: http://www.nealsheeran.com/archives/2012/09/automating-octopress-with-keyboard-maestro/
+[11]: http://www.candlerblog.com/2012/10/10/textexpander-applescript-and-octopress/
+[12]: http://jarhead.me/2012/11/automate-link-posts-textexpander-chrome/
