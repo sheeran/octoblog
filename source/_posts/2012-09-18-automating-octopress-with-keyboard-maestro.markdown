@@ -82,6 +82,8 @@ I have all three macros set to "display results briefly"---the normal rake outpu
 
 *Update (11 Jan 13)*: Doug Rice of Jarhead.me has an some excellent [Text Expander snippets][12] as well. Also, added the Hazel warning above and the Candler Blog link in the previous update has been fixed. Sorry about that.
 
+*Update (20 Jan 13)*: Justin Blanton of Hypertext wrote up a very detailed [Keyboard Maestro solution][13] that includes automatic quotes for linked-list style posts. Very nice.
+
 [^1]: These last two can be combined with the `rake gen_deploy` command, if desired. Other Octopress rake tasks such as `watch` and `preview` could easily be automated with this as well. If the terminal _is_ in your wheelhouse, Alessandro Nadalin has [written][10] some nice shell aliases and functions that combine many of these tasks.
 
 [1]: http://octopress.org/
@@ -97,3 +99,4 @@ I have all three macros set to "display results briefly"---the normal rake outpu
 [10]: http://odino.org/bash-aliases-for-octopress/
 [11]: http://www.candlerblog.com/2012/10/10/textexpander-applescript-and-octopress/
 [12]: http://jarhead.me/2012/11/automate-link-posts-textexpander-chrome/
+[13]: http://hypertext.net/2013/01/jekyll-km-new-posts/
