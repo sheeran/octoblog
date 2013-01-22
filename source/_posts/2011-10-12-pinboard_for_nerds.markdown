@@ -3,7 +3,7 @@ layout: post
 title: "Pinboard For Nerds"  
 date: 2011-10-12 08:17  
 comments: true  
-categories: [elsewhere, software, web]
+categories: [elsewhere, software, pinboard]
 external-url: http://www.macdrifter.com/2011/10/pinboard-for-nerds/  
 ---
 

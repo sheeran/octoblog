@@ -4,7 +4,7 @@ title: "Markdown Throwdown"
 date: 2012-11-01 00:03
 comments: true
 external-url: 
-categories: writing
+categories: [writing, markdown]
 ---
 
 John Gruber's [Markdown][6] writing syntax has exploded in popularity recently, although Gruber hasn't done much with it for many years. Other developers have expanded on its original capabilities, to include Fletcher Penny's [MultiMarkdown][5].

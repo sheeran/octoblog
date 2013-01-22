@@ -3,7 +3,7 @@ layout: post
 title: "Keep Local Copies of Pinboard Links"  
 date: 2012-04-14 07:09  
 comments: true  
-categories: [geekery, software, web]
+categories: [geekery, software, pinboard]
 ---
 
 I came across [Brett Terpstra's][terpstra] cool bit of code to keep local copies of your Pinboard links. Like Brett, I use [Delibar][delibar] to send links to [Pinboard][pb], and via [his script][gh], they automatically get saved to my machine. And also like, Brett, I use the [Tags app][tags] to tag all sorts of things on my Mac. 

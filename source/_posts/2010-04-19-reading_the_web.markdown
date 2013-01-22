@@ -3,7 +3,7 @@ layout: post
 title: "Reading the Web"  
 date: 2010-04-19 23:43  
 comments: true  
-categories: [reading, software]
+categories: [software, pinboard]
 ---
 
 I'm not sure when reading the multitudes of blog posts and news articles--and keeping track of the interesting things--became a challenge, but I suspect getting an iPhone was actually a contributor. 

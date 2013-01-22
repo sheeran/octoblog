@@ -4,7 +4,7 @@ title: "Upgrading My Apple Gear"
 date: 2012-11-02 23:58
 comments: true
 external-url: 
-categories: [apple]
+categories: [apple, mac]
 ---
 
 In the last few months and up to last week, Apple has introduced Retina MacBook Pro's (13 and 15 inch), updated MacBook Airs, the iPhone 5, the iPad "4" (seven months after the Retina iPad 3), and the iPad Mini. Throw in revved up Mac Mini's and new iMacs just around the corner. Given that my Apple hardware consists of the following, what, if anything, am I going to upgrade and when?
