@@ -21,7 +21,7 @@ One area where I think Evernote may be valuable is collecting things of a more v
 
 I may keep Evernote around to fill this very narrow niche of collecting notes of a visual/design-related examples.
 
-*Update (22 Jan 13): My observations are somewhat in line with [Eddie Smith's][4]. His thoughts regarding PDFs are interesting.
+*Update (22 Jan 13)*: My observations are somewhat in line with [Eddie Smith's][4]. His thoughts regarding PDFs are interesting.
 
     
 [^1]: As I write this, I'm listening to Mac Power Users [episode][mpu] #117. Katie Floyd's use-cases for Evernote aren't making any convincing arguments and David Sparks' responses coincide with mine. Considering I have borrowed many of David's workflow tricks, this is not surprising. 
