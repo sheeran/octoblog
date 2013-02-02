@@ -56,7 +56,9 @@ In order for Hazel to be able to run the script, make it executable with the fol
     
 2. It currently only works with single word categories. I use a few multi-word categories on this site like `categories: [test, 'web design']`, but this script would write three OpenMeta tags: `test`, `web`, and `design`. This is not a problem for me since all the other tags on my machine are single word. Since I have a fair amount of `webdesign`-tagged files from Pinboard, I used BBEdit to find all instances of `'web design'` and replace with `webdesign`. Another reason why I do all of this on copies of posts--I can keep the two-word categories on the website.
 
-3. This script is useful if you have a large collection of posts[^3], but not very efficient when run with the Hazel rule as new posts are archived, as it will unnecessarily process every file again (although it won't duplicate tags). My next step would be a modified version that just writes tags against new files. 
+3. This script is useful if you have a large collection of posts[^3], but not very efficient when run with the Hazel rule as new posts are archived, as it will unnecessarily process every file again (although it won't duplicate tags). My next step would be a modified version that just writes tags against new files.
+
+*Update (30 Jan 13)*: Regarding point 3, here is a [modified script][10] that runs only on a single file. Use Hazel to trigger it on newly archived posts.
 
 
 ### So Why Do This?
@@ -101,4 +103,5 @@ OpenMeta tags are awesome and while their future in OS X is a bit [cloudy][9], t
 [7]: http://code.google.com/p/openmeta/downloads/detail?name=openmeta_commandline_1.3.0.zip&can=2&q=
 [8]: http://www.timbueno.com/2012/07/07/rolling-my-own-automatic-tweet-archiver
 [9]: http://support.cocoatech.com/discussions/problems/1387-openmeta-standard-and-mountain-lion
+[10]: https://gist.github.com/4680168
 

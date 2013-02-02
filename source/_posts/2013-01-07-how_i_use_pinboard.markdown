@@ -13,11 +13,13 @@ I get links into Pinboard a few different ways. In a browser on my laptop, I use
 
 I also use Brett Terpstra's [awesome script][5] to archive local copies of Pinboard links into a Dropbox folder, with the Pinboard tags applied as OpenMeta tags so they are searchable with Spotlight. I also use an app called [Leap][6] that is great for managing all the tagged files on my computer, including these archived Pinboard links. So now I can do a local search for a tag such as *ruby* or *python* and Leap will find all the files with those tags: pdfs, Pinboard bookmarks, [nvALT][7] notes, etc.[^3] My next project is to write a Ruby script that goes through my local archive of these blog posts (which are just markdown files) and applies the categories of each post to the file as OpenMeta tags. Ok, the project before *that* is to learn Ruby, but whatever.
 
+*Update (30 Jan 13)*: Script written. Here's the [Gist][16] and here is the [writeup][17] on it.
+
 More Pinboard goodness:
 
 - [Pinbook][8] is my app of choice for browsing my links on iOS.
 - [Delish][9] is a new OS X app that syncs with Pinboard. Its money feature is the ability to build smart bundles, which greatly expands on Pinboards native [tag bundles][11].
-- Sean Korzdorfer has some [good info][10] using Pinboard.
+- Sean Korzdorfer has some [good info][10] about using Pinboard.
 
 Bottom Line: Pinboard is my favorite web service, by far. Best $3.92 I ever spent.
 
@@ -43,6 +45,9 @@ Bottom Line: Pinboard is my favorite web service, by far. Best $3.92 I ever spen
 [13]: http://getpocket.com/
 [14]: http://www.caseapps.com/tags/
 [15]: http://code.google.com/p/openmeta/
+[16]: https://gist.github.com/4680168
+[17]: http://www.nealsheeran.com/archives/2013/01/openmeta-octopress/
+
 
 
 
