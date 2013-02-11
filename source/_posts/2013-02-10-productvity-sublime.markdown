@@ -28,7 +28,7 @@ The main benefit I get out of using this is I have a `lab.TODO` file that lives 
 
 Plain Task works great for keeping track of things with a wide scope. For fine-grain task-foo, I use Sublime TODO, which can easily keep track of all your tasks, down to the line level. I have a line in a Sass file for the new site that looks like this:
 
-```
+``` css
 //TODO: Convert this font-size to a mixin
 .lab-list dt,
 .lab-list dt a { 
