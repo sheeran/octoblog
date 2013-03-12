@@ -1,0 +1,40 @@
+---
+layout: post  
+title: "The Small-State Advantage in the United States Senate"  
+date: 2013-03-11 22:46  
+comments: true  
+external-url: http://www.nytimes.com/interactive/2013/03/11/us/politics/small-state-advantage.html  
+categories: [elsewhere, politics]  
+---
+
+[John Gruber][df], in relation to a New York Times [infographic][ny] that illustrates per capita federal aid for 31 smaller states compared to the 3 largest:
+
+> Everything that’s wrong with U.S. politics, in one picture.
+
+What I think he is actually railing against, because he has before, is the both groups each represent about 25% of the population, but the former is represented by 62 Senators and the latter six. Gruber doesn't really give a shit that Wyoming's per capita aid is $4,180 compared to California's $1,790.
+
+Gruber is pissed that Wyoming Senators each represent about 290,000 people, and Senators Boxer and Feinstein from California represent 19 million-plus each, and each holds one single vote. 
+
+Nevermind Article 1, Section 3 of the US [Constitution][us]:
+
+> The Senate of the United States shall be composed of two Senators from each State, <strike>chosen by the Legislature thereof,</strike> [^senate1] for six years; and each Senator shall have one Vote.
+
+Nevermind that Wyoming has one congressional district and California has 53, and the House holds the purse strings. 
+
+Nevermind that that zero US Senators have passed a budget in 1,400 days, because none of them want to be on the record and accountable to those they represent -- a significantly bigger issue than the how many of them there are. [^senate2] 
+
+There are a myriad of things wrong with politics in the US. The fact that Wyoming and Vermont are on equal footing with New York and Texas in the Senate *is by design* and doesn't break the top 25.
+
+I venture a guess that if the 10 smallest states by population were all blue states (there are actually 5, and the red/blue split between the 31 is about even), Gruber would be singing a different tune. But a few small red states holding sway over the liberal lions from New York and California? A crisis of government. Remember, liberals only cry about *tyranny of the majority* when they aren't in it. [^senate3]
+
+
+[^senate1]: Changed by the 17th Amendment in 1913 when Senators became directly elected by the people.
+
+[^senate2]: Although they did vote 97-0 against President Obama's budget last year, so they have that going for them.
+
+[^senate3]: See filibuster reform.
+
+[ny]: http://www.nytimes.com/interactive/2013/03/11/us/politics/small-state-advantage.html
+[df]: http://daringfireball.net/linked/2013/03/11/small-states
+[us]: http://www.senate.gov/civics/constitution_item/constitution.html#a1_sec3
+
