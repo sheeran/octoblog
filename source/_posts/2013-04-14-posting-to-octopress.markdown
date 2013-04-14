@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: "test"  
+title: "Posting to Octopress, Part 2"  
 date: 2013-04-14 14:40  
 comments: true  
 external-url:  
