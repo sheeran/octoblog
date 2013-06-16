@@ -17,7 +17,7 @@ Of course he is referring to the release of [Vesper][2], a new iPhone note-takin
 
 Interesting. I have been an avid listener of [Mac Power Users][4] for a while. David has said multiple times that if an iOS text editor doesn't have Text Expander or Markdown [^1] support, it's a non-starter.  I like David Sparks, but if Joe Nobody released this app, neither he, nor the plethora of other bloggers falling over themselves to heap praise in spite of the limitations, would give it the time of day.
 
-*Update (13 June 13): * Kevin Whipps at [Appstorm][5] speaks truth to power:
+*Update (13 June 13):* Kevin Whipps at [Appstorm][5] speaks truth to power:
 
 >Why would anyone release an app with this kind of use case without a syncing option? Arment chalks it up to balls, but I say it’s stupid. These are three high-profile men with incredible clout and knowledge of the industry. They all must know that sync is important, and even if the feature is coming in the future, there’s no sign that it’s on the horizon (unless they mentioned it in an interview that I haven’t read yet). Saying that they wanted to perfect what they have and then consider sync or alternate platforms is a cop out. And arguably their biggest competition in the notes genre — Simplenote — is free. It doesn’t matter how pretty Vesper is when your content is locked to your device forever.
 
