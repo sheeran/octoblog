@@ -22,7 +22,7 @@ I have purchased accounts at most of the major alternatives and used them for th
 
 [Newsblur][nb] is getting the most use. [Macdrifter][md] is a fan. I like both the web app and the iOS versions. There are some issues, though:
 
-1. I have had multiple instances of the app(s) losing saved articles. I'll save an article and refresh all devices and see that it is there. Then the next day they disappear. Frustrating.
+1. I have had multiple instances of the app(s) losing saved articles. I'll save an article and refresh all devices and see that it is there. Then the next day they disappear. Frustrating. [^2]
 2. Sending to Instapaper is kind of a wonky affair. Lots of button clicks. Same goes for Pinboard.
 
 
@@ -43,6 +43,7 @@ The iPad app [Mr Reader][mr1] shows a lot of promise, and the developer has an i
 
 
 [^1]: By far, my favorite post of the Google Reader Apocalypse is [this one][fk].
+[^2]: *Update:* I checked NewsBlur immediately after posting this...happened again. Grrrr.
 
 
 [tb]: http://tidbits.com/article/13858
