@@ -1,0 +1,10 @@
+---
+layout: post  
+title: "A Test Post"  
+date: 2013-07-06 23:00  
+comments: true  
+external-url:  
+categories: [admin]  
+---
+
+Just a test post. Nothing to see here. Move along.
