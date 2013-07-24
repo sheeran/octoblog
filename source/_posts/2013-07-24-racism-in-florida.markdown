@@ -7,7 +7,7 @@ external-url: http://www.nationalreview.com/article/354178/real-marissa-alexande
 categories: [elsewhere, politics]  
 ---
 
-When George Zimmerman was found innocent, there was much consternation regarding the case Marissa Alexander being sentenced to 20 years in prison for "firing warning shots."
+When George Zimmerman was found innocent, there was much consternation regarding the case of Marissa Alexander being sentenced to 20 years in prison for "firing warning shots."
 
 Well, the (murky) [details][1] of that case are not quite so indicative of institutional racism in Florida that some would have you believe. 
 
