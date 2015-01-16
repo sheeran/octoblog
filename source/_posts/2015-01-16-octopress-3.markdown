@@ -1,0 +1,12 @@
+---
+layout: post  
+title: "Octopress 3.0"  
+date: 2015-01-16 10:17  
+comments: true  
+external-url:  
+categories: [blogging, software]  
+---
+[Great news](1 ) about the impending release of Octopress 3.0. I've been using a no-longer-supported 2.1 beta version strictly for the linked list post feature and been hesitant to upgrade further for fear of breaking something. Developer Brandon Mathis says this will be addressed in the new version, among many other interesting features.
+
+
+[1]: http://octopress.org/2015/01/15/octopress-3.0-is-coming/
